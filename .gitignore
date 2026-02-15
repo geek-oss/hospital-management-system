@@ -1,0 +1,22 @@
+# Ignored files
+
+# Node modules
+node_modules/
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# Compiled source
+/dist/
+/build/
+
+# Database files
+*.sql
+*.sqlite
+
+# IDE files
+*.vscode/
+*.idea/
